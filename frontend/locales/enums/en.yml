@@ -1,7 +1,7 @@
 en:
   enumerations:
     content_warning_code:
-      cw_adult: Adult Content
       cw_general: Harmful Content (general)
-      cw_hate: Hateful Content
-      cw_racism: Racist Content
+      cw_warning: Content Warning
+      cw_description: Content Description Warning
+      cw_sensitivity: Cultural Sensitivity Warning
