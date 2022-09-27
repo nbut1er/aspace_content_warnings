@@ -16,3 +16,12 @@ en:
     filter:
       content_warnings_u_sstr: Content Warning
       content_warnings_general_u_sbool: Content Warning
+
+  plugins:
+    aspace_content_warnings:  
+      enumerations:
+        content_warning_code:
+          cw_general: Harmful Content (general)
+          cw_warning: Content Warning
+          cw_description: Content Description Warning
+          cw_sensitivity: Cultural Sensitivity Warning
